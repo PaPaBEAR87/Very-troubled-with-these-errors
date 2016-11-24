@@ -1,0 +1,3413 @@
+=====================================================================
+== D:\Program Files (x86)\Steam\steamapps\common\Arma 3\arma3.exe
+== "D:\Program Files (x86)\Steam\steamapps\common\Arma 3\arma3.exe" -noSplash -mod=
+
+Original output filename: Arma3Retail_DX11
+Exe timestamp: 2016/10/07 16:49:20
+Current time:  2016/11/24 10:50:19
+
+Type: Public
+Build: Stable
+Version: 1.64.138732
+
+Allocator: D:\Program Files (x86)\Steam\steamapps\common\Arma 3\dll\tbb4malloc_bi.dll
+=====================================================================
+
+10:50:19 Array index out of range
+10:50:19 Initializing stats manager.
+10:50:19 sessionID: 78a78a785c1f2deebe8757e56fe6fb2857a24516
+10:50:35 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/
+10:50:35 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/
+10:50:35 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/
+10:50:35 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/
+10:50:35 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/
+10:50:35 Updating base class BlendAnims->, by a3\anims_f\config\sdr\weaponswitching\config.bin/CfgMovesMaleSdr/BlendAnims/
+10:50:35 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/
+10:50:35 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/
+10:50:35 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/
+10:50:35 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/
+10:50:35 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/
+10:50:35 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/
+10:50:35 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/
+10:50:35 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/
+10:50:35 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/
+10:50:35 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/
+10:50:35 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/
+10:50:35 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/
+10:50:35 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/
+10:50:35 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/
+10:50:35 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/
+10:50:35 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/
+10:50:35 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/
+10:50:35 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/
+10:50:35 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/
+10:50:35 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/
+10:50:35 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/
+10:50:35 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/
+10:50:35 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/
+10:50:35 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/
+10:50:35 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/
+10:50:35 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/
+10:50:35 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/
+10:50:35 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/
+10:50:35 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/
+10:50:35 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/
+10:50:35 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/
+10:50:35 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/
+10:50:35 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/
+10:50:35 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/
+10:50:35 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/
+10:50:35 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/
+10:50:35 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/
+10:50:35 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/
+10:50:35 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/
+10:50:35 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/
+10:50:35 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/
+10:50:35 Updating base class RscUnitInfo->RscUnitInfoAirNoWeapon, by a3\ui_f\config.bin/RscInGameUI/RscUnitInfoAir/
+10:50:35 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscInGameUI/RscTaskOverview/controls/TaskOverviewAssigned/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/
+10:50:35 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/
+10:50:35 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/
+10:50:35 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/
+10:50:35 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/
+10:50:35 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/OverviewGroup/
+10:50:35 Updating base class RscButton->RscButtonSearch, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/SearchButton/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonCancel/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonGameOptions/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenuSteam, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonBuyDLC/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonRevert/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonOK/
+10:50:35 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/
+10:50:35 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/
+10:50:35 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/
+10:50:35 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/
+10:50:35 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/controls/ButtonCancel/
+10:50:35 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+10:50:35 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/
+10:50:35 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/
+10:50:35 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/
+10:50:35 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/
+10:50:35 Cannot update non class from class a3\ui_f\config.bin/RscCallSupport/Items/
+10:50:35 Cannot update non class from class a3\ui_f\config.bin/RscRadio/Items/
+10:50:35 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceMid/
+10:50:35 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceLong/
+10:50:35 Updating base class ->All, by a3\sounds_f\config.bin/CfgVehicles/Sound/
+10:50:35 Updating base class ->BlendAnims, by a3\soft_f_kart\kart_01\config.bin/CfgMovesMaleSdr/BlendAnims/
+10:50:35 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisable/
+10:50:35 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisableTiles/
+10:50:35 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisable/
+10:50:35 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisableTiles/
+10:50:35 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisable/
+10:50:35 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisableTiles/
+10:50:35 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisable/
+10:50:35 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisableTiles/
+10:50:35 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisable/
+10:50:35 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisableTiles/
+10:50:35 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_2/Controls/
+10:50:35 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_6/Controls/
+10:50:35 Updating base class HouseBase->Static, by a3\3den\config.bin/CfgVehicles/Ruins/
+10:50:35 Updating base class Strategic->Static, by a3\3den\config.bin/CfgVehicles/BagFence_base_F/
+10:50:35 Updating base class NonStrategic->Static, by a3\3den\config.bin/CfgVehicles/HBarrier_base_F/
+10:50:35 Updating base class House_F->Static, by a3\3den\config.bin/CfgVehicles/VR_Shape_base_F/
+10:50:35 Updating base class House_F->Static, by a3\3den\config.bin/CfgVehicles/VR_CoverObject_base_F/
+10:50:35 Updating base class House_Small_F->Static, by a3\3den\config.bin/CfgVehicles/Garbage_base_F/
+10:50:35 Updating base class Wreck_Base->Static, by a3\3den\config.bin/CfgVehicles/Wreck_base_F/
+10:50:35 Updating base class House_Small_F->Static, by a3\3den\config.bin/CfgVehicles/Cemetery_base_F/
+10:50:35 Updating base class NonStrategic->Static, by a3\3den\config.bin/CfgVehicles/Scrapyard_base_F/
+10:50:35 Updating base class NonStrategic->Static, by a3\3den\config.bin/CfgVehicles/LuggageHeap_base_F/
+10:50:35 Updating base class Static->ThingX, by a3\props_f_exp\infrastructure\traffic\config.bin/CfgVehicles/Land_VergeRock_01_F/
+10:50:35 Updating base class Static->House_F, by a3\structures_f_exp\cultural\basaltruins\config.bin/CfgVehicles/BasaltRuins_base_F/
+10:50:35 Updating base class Static->Wall_F, by a3\structures_f_exp\walls\stone\config.bin/CfgVehicles/Land_StoneWall_01_s_10m_F/
+10:50:35 Updating base class Static->Wall_F, by a3\structures_f_exp\walls\stone\config.bin/CfgVehicles/Land_StoneWall_01_s_d_F/
+10:50:35 Updating base class Rifle_Short_Base_F->Rifle_Base_F, by a3\weapons_f_exp\config.bin/CfgWeapons/SMG_02_base_F/
+10:50:37 Initializing Steam Manager
+10:50:37 Starting initial content check.
+10:50:37 Steam Manager initialized.
+10:50:37 
+10:50:37 ==== Loaded addons ====
+10:50:37 
+10:50:37 dta\bin.pbo - unknown
+10:50:37 dta\core.pbo - 105269
+10:50:37 dta\languagecore_f.pbo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\air_f_exp.ebo - 104110
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\anims_f_exp.ebo - 103021
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\armor_f_exp.ebo - 104064
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\boat_f_exp.ebo - 104097
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\cargoposes_f_exp.ebo - 102649
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\characters_f_exp.ebo - 104803
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\data_f_exp.ebo - 104700
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\dubbing_f_exp.ebo - 102566
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp.ebo - 102344
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp_data_chi.ebo - 102574
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp_data_engfre.ebo - 102574
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp_data_fre.ebo - 103187
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\editorpreviews_f_exp.ebo - 104805
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\functions_f_exp.ebo - 102377
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\languagemissions_f_exp.ebo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\language_f_exp.ebo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\map_data_exp.ebo - 101774
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\map_tanoabuka.ebo - 103522
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\map_tanoabuka_data.ebo - 102638
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\map_tanoabuka_data_layers.ebo - 102461
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\map_tanoabuka_data_layers_00_00.ebo - 102461
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\map_tanoa_scenes_f.ebo - 101568
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\missions_f_exp.ebo - 105876
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\missions_f_exp_data.ebo - 104654
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\missions_f_exp_video.ebo - 102748
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\modules_f_exp.ebo - 101172
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\music_f_exp.ebo - 102056
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\music_f_exp_music.ebo - 102056
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\props_f_exp.ebo - 105103
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\rocks_f_exp.ebo - 102694
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\soft_f_exp.ebo - 104563
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\sounds_f_exp.ebo - 105478
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\static_f_exp.ebo - 103750
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\structures_f_exp.ebo - 104645
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\structures_f_exp_civilian.ebo - 102332
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\structures_f_exp_commercial.ebo - 102337
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\structures_f_exp_cultural.ebo - 102334
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\structures_f_exp_data.ebo - 103085
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\structures_f_exp_industrial.ebo - 102566
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\structures_f_exp_infrastructure.ebo - 104645
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\supplies_f_exp.ebo - 104793
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\ui_f_exp.ebo - 103113
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\vegetation_f_exp.ebo - 103172
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\weapons_f_exp.ebo - 104883
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\anims_f_mark.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\characters_f_mark.pbo - 102108
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\data_f_mark.pbo - 100892
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\dubbing_f_mark.pbo - 98398
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\dubbing_f_mp_mark.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\functions_f_mark.pbo - 104208
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\functions_f_mp_mark.pbo - 106042
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\languagemissions_f_mark.pbo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\languagemissions_f_mp_mark.pbo - 106322
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\language_f_mark.pbo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\language_f_mp_mark.pbo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\missions_f_mark.pbo - 102917
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\missions_f_mark_data.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\missions_f_mark_video.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\missions_f_mp_mark.pbo - 103393
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\missions_f_mp_mark_data.pbo - 99084
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\modules_f_mark.pbo - 99085
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\modules_f_mp_mark.pbo - 105876
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\music_f_mark.pbo - 98422
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\music_f_mark_music.pbo - 99086
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\sounds_f_mark.pbo - 99087
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\static_f_mark.pbo - 103750
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\structures_f_mark.pbo - 99089
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\supplies_f_mark.pbo - 103750
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\ui_f_mark.pbo - 99090
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\ui_f_mp_mark.pbo - 99090
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\weapons_f_mark.pbo - 103768
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\air_f_heli.pbo - 104320
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\anims_f_heli.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\boat_f_heli.pbo - 103750
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\cargoposes_f_heli.pbo - 103864
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\data_f_heli.pbo - 100892
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\dubbing_f_heli.pbo - 98398
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\functions_f_heli.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\languagemissions_f_heli.pbo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\language_f_heli.pbo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\missions_f_heli.pbo - 104274
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\missions_f_heli_data.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\missions_f_heli_video.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\modules_f_heli.pbo - 104276
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\music_f_heli.pbo - 98423
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\music_f_heli_music.pbo - 99086
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\soft_f_heli.pbo - 103750
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\sounds_f_heli.pbo - 99086
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\structures_f_heli.pbo - 101719
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\supplies_f_heli.pbo - 103750
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\ui_f_heli.pbo - 99090
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\anims_f_kart.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\characters_f_kart.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\data_f_kart.pbo - 100651
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\languagemissions_f_kart.pbo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\language_f_kart.pbo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\missions_f_kart.pbo - 104383
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\missions_f_kart_data.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\modules_f_kart.pbo - 99085
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\modules_f_kart_data.pbo - 99085
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\soft_f_kart.pbo - 103750
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\sounds_f_kart.pbo - 99086
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\structures_f_kart.pbo - 101717
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\ui_f_kart.pbo - 99090
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\weapons_f_kart.pbo - 99090
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\data_f_curator.pbo - 103921
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\functions_f_curator.pbo - 99082
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\language_f_curator.pbo - 106537
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\missions_f_curator.pbo - 103884
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\modules_f_curator.pbo - 103372
+10:50:37 D:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\ui_f_curator.pbo - 105558
+10:50:37 addons\3den.pbo - 105763
+10:50:37 addons\3den_language.pbo - 106535
+10:50:37 addons\a3.pbo - unknown
+10:50:37 addons\air_f.pbo - 103749
+10:50:37 addons\air_f_beta.pbo - 104183
+10:50:37 addons\air_f_epb.pbo - 103749
+10:50:37 addons\air_f_epc.pbo - 103749
+10:50:37 addons\air_f_gamma.pbo - 103749
+10:50:37 addons\animals_f.pbo - 100090
+10:50:37 addons\animals_f_beta.pbo - 100090
+10:50:37 addons\anims_f.pbo - 103716
+10:50:37 addons\anims_f_bootcamp.pbo - 99081
+10:50:37 addons\anims_f_data.pbo - 103820
+10:50:37 addons\anims_f_epa.pbo - 99082
+10:50:37 addons\anims_f_epc.pbo - 99082
+10:50:37 addons\anims_f_exp_a.pbo - 99908
+10:50:37 addons\armor_f.pbo - 103750
+10:50:37 addons\armor_f_beta.pbo - 103749
+10:50:37 addons\armor_f_epb.pbo - 103749
+10:50:37 addons\armor_f_epc.pbo - 103749
+10:50:37 addons\armor_f_gamma.pbo - 103749
+10:50:37 addons\baseconfig_f.pbo - 99080
+10:50:37 addons\boat_f.pbo - 103749
+10:50:37 addons\boat_f_beta.pbo - 103750
+10:50:37 addons\boat_f_epc.pbo - 103750
+10:50:37 addons\boat_f_gamma.pbo - 103750
+10:50:37 addons\cargoposes_f.pbo - 102701
+10:50:37 addons\characters_f.pbo - 104996
+10:50:37 addons\characters_f_beta.pbo - 101172
+10:50:37 addons\characters_f_bootcamp.pbo - 100169
+10:50:37 addons\characters_f_epa.pbo - 99082
+10:50:37 addons\characters_f_epb.pbo - 99082
+10:50:37 addons\characters_f_epc.pbo - 99082
+10:50:37 addons\characters_f_gamma.pbo - 99374
+10:50:37 addons\data_f.pbo - 104696
+10:50:37 addons\data_f_bootcamp.pbo - 100892
+10:50:37 addons\data_f_exp_a.pbo - 99082
+10:50:37 addons\data_f_exp_b.pbo - 98643
+10:50:37 addons\drones_f.pbo - 103750
+10:50:37 addons\dubbing_f.pbo - 98398
+10:50:37 addons\dubbing_f_beta.pbo - 98398
+10:50:37 addons\dubbing_f_bootcamp.pbo - 98398
+10:50:37 addons\dubbing_f_epa.pbo - 98398
+10:50:37 addons\dubbing_f_epb.pbo - 98398
+10:50:37 addons\dubbing_f_epc.pbo - 98398
+10:50:37 addons\dubbing_f_gamma.pbo - 98398
+10:50:37 addons\dubbing_radio_f.pbo - 99982
+10:50:37 addons\dubbing_radio_f_data_eng.pbo - 99078
+10:50:37 addons\dubbing_radio_f_data_engb.pbo - 99078
+10:50:37 addons\dubbing_radio_f_data_gre.pbo - 99078
+10:50:37 addons\dubbing_radio_f_data_per.pbo - 99078
+10:50:37 addons\dubbing_radio_f_data_vr.pbo - 99078
+10:50:37 addons\editorpreviews_f.pbo - 103691
+10:50:37 addons\editor_f.pbo - 99082
+10:50:37 addons\functions_f.pbo - 105478
+10:50:37 addons\functions_f_bootcamp.pbo - 104210
+10:50:37 addons\functions_f_epa.pbo - 99082
+10:50:37 addons\functions_f_epc.pbo - 99082
+10:50:37 addons\functions_f_exp_a.pbo - 104562
+10:50:37 addons\languagemissions_f.pbo - 106537
+10:50:37 addons\languagemissions_f_beta.pbo - 106537
+10:50:37 addons\languagemissions_f_bootcamp.pbo - 106537
+10:50:37 addons\languagemissions_f_epa.pbo - 106537
+10:50:37 addons\languagemissions_f_epb.pbo - 106537
+10:50:37 addons\languagemissions_f_epc.pbo - 106537
+10:50:37 addons\languagemissions_f_exp_a.pbo - 106537
+10:50:37 addons\languagemissions_f_gamma.pbo - 106537
+10:50:37 addons\language_f.pbo - 105615
+10:50:37 addons\language_f_beta.pbo - 106535
+10:50:37 addons\language_f_bootcamp.pbo - 106536
+10:50:37 addons\language_f_epa.pbo - 106537
+10:50:37 addons\language_f_epb.pbo - 106537
+10:50:37 addons\language_f_epc.pbo - 106537
+10:50:37 addons\language_f_exp_a.pbo - 106537
+10:50:37 addons\language_f_exp_b.pbo - 106537
+10:50:37 addons\language_f_gamma.pbo - 106537
+10:50:37 addons\map_altis.pbo - 103962
+10:50:37 addons\map_altis_data.pbo - 99740
+10:50:37 addons\map_altis_data_layers.pbo - 99901
+10:50:37 addons\map_altis_data_layers_00_00.pbo - 99901
+10:50:37 addons\map_altis_data_layers_00_01.pbo - 99901
+10:50:37 addons\map_altis_data_layers_01_00.pbo - 99901
+10:50:37 addons\map_altis_data_layers_01_01.pbo - 99901
+10:50:37 addons\map_altis_scenes_f.pbo - 101568
+10:50:37 addons\map_data.pbo - 103018
+10:50:37 addons\map_stratis.pbo - 103932
+10:50:37 addons\map_stratis_data.pbo - 99082
+10:50:37 addons\map_stratis_data_layers.pbo - 99082
+10:50:37 addons\map_stratis_scenes_f.pbo - 101568
+10:50:37 addons\map_vr.pbo - 98784
+10:50:37 addons\map_vr_scenes_f.pbo - 101569
+10:50:37 addons\misc_f.pbo - 99082
+10:50:37 addons\missions_f.pbo - 105808
+10:50:37 addons\missions_f_beta.pbo - 99082
+10:50:37 addons\missions_f_beta_data.pbo - 99082
+10:50:37 addons\missions_f_beta_video.pbo - 99082
+10:50:37 addons\missions_f_bootcamp.pbo - 104150
+10:50:37 addons\missions_f_bootcamp_data.pbo - 99082
+10:50:37 addons\missions_f_bootcamp_video.pbo - 99082
+10:50:37 addons\missions_f_data.pbo - 99082
+10:50:37 addons\missions_f_epa.pbo - 104331
+10:50:37 addons\missions_f_epa_data.pbo - 99082
+10:50:37 addons\missions_f_epa_video.pbo - 99082
+10:50:37 addons\missions_f_epb.pbo - 99082
+10:50:37 addons\missions_f_epc.pbo - 99082
+10:50:37 addons\missions_f_exp_a.pbo - 105043
+10:50:37 addons\missions_f_exp_a_data.pbo - 98702
+10:50:37 addons\missions_f_gamma.pbo - 104054
+10:50:37 addons\missions_f_gamma_data.pbo - 99082
+10:50:37 addons\missions_f_gamma_video.pbo - 99082
+10:50:37 addons\missions_f_video.pbo - 99084
+10:50:37 addons\modules_f.pbo - 104380
+10:50:37 addons\modules_f_beta.pbo - 99084
+10:50:37 addons\modules_f_beta_data.pbo - 99084
+10:50:37 addons\modules_f_bootcamp.pbo - 99085
+10:50:37 addons\modules_f_data.pbo - 99085
+10:50:37 addons\modules_f_epb.pbo - 99085
+10:50:37 addons\modules_f_exp_a.pbo - 99085
+10:50:37 addons\music_f.pbo - 99086
+10:50:37 addons\music_f_bootcamp.pbo - 98422
+10:50:37 addons\music_f_bootcamp_music.pbo - 99086
+10:50:37 addons\music_f_epa.pbo - 98422
+10:50:37 addons\music_f_epa_music.pbo - 99086
+10:50:37 addons\music_f_epb.pbo - 98422
+10:50:37 addons\music_f_epb_music.pbo - 99086
+10:50:37 addons\music_f_epc.pbo - 98423
+10:50:37 addons\music_f_epc_music.pbo - 99086
+10:50:37 addons\music_f_music.pbo - 99086
+10:50:37 addons\plants_f.pbo - 102349
+10:50:37 addons\props_f_exp_a.pbo - 103750
+10:50:37 addons\roads_f.pbo - 98423
+10:50:37 addons\rocks_f.pbo - 101831
+10:50:37 addons\signs_f.pbo - 99349
+10:50:37 addons\soft_f.pbo - 103750
+10:50:37 addons\soft_f_beta.pbo - 103862
+10:50:37 addons\soft_f_bootcamp.pbo - 103750
+10:50:37 addons\soft_f_epc.pbo - 103750
+10:50:37 addons\soft_f_gamma.pbo - 103750
+10:50:37 addons\sounds_f.pbo - 105478
+10:50:37 addons\sounds_f_arsenal.pbo - 105059
+10:50:37 addons\sounds_f_bootcamp.pbo - 99086
+10:50:37 addons\sounds_f_characters.pbo - 101934
+10:50:37 addons\sounds_f_environment.pbo - 101781
+10:50:37 addons\sounds_f_epb.pbo - 99086
+10:50:37 addons\sounds_f_epc.pbo - 103120
+10:50:37 addons\sounds_f_exp_a.pbo - 99086
+10:50:37 addons\sounds_f_sfx.pbo - 99087
+10:50:37 addons\sounds_f_vehicles.pbo - 101781
+10:50:37 addons\static_f.pbo - 103750
+10:50:37 addons\static_f_beta.pbo - 103750
+10:50:37 addons\static_f_gamma.pbo - 103750
+10:50:37 addons\structures_f.pbo - 103818
+10:50:37 addons\structures_f_bootcamp.pbo - 101830
+10:50:37 addons\structures_f_data.pbo - 100167
+10:50:37 addons\structures_f_epa.pbo - 99891
+10:50:37 addons\structures_f_epb.pbo - 101868
+10:50:37 addons\structures_f_epc.pbo - 101721
+10:50:37 addons\structures_f_exp_a.pbo - 99087
+10:50:37 addons\structures_f_households.pbo - 103767
+10:50:37 addons\structures_f_ind.pbo - 102260
+10:50:37 addons\structures_f_mil.pbo - 102891
+10:50:37 addons\structures_f_wrecks.pbo - 99089
+10:50:37 addons\uifonts_f.pbo - 99090
+10:50:37 addons\uifonts_f_data.pbo - 99090
+10:50:37 addons\ui_f.pbo - 106102
+10:50:37 addons\ui_f_bootcamp.pbo - 101548
+10:50:37 addons\ui_f_data.pbo - 104852
+10:50:37 addons\ui_f_exp_a.pbo - 99090
+10:50:37 addons\weapons_f.pbo - 104785
+10:50:37 addons\weapons_f_beta.pbo - 104151
+10:50:37 addons\weapons_f_bootcamp.pbo - 99090
+10:50:37 addons\weapons_f_epa.pbo - 99090
+10:50:37 addons\weapons_f_epb.pbo - 99090
+10:50:37 addons\weapons_f_epc.pbo - 99090
+10:50:37 addons\weapons_f_gamma.pbo - 99090
+10:50:37 
+10:50:37 =======================
+10:50:37 
+10:50:37 ============================================================================================= List of mods ===============================================================================================
+10:50:37 modsReadOnly = true
+10:50:37 safeModsActivated = false
+10:50:37 customMods = false
+10:50:37 hash = '3A95486246B34F5B85FF80C37C86C641D28F1BFE'
+10:50:37 hashShort = '98892aff'
+10:50:37                                               name |               modDir |    default |               origin |                                     hash | hashShort | fullPath
+10:50:37 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10:50:37                                  Arma 3 DLC Bundle |            dlcbundle |       true |            NOT FOUND |                                          |           | 
+10:50:37                                        Arma 3 Apex |            expansion |       true |             GAME DIR | 8f336464a2146e47b4f945912e2f47062565c458 |  37e56344 | D:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion
+10:50:37                                    Arma 3 Marksmen |                 mark |       true |             GAME DIR | 9f9aa09310ec0a4c627c26ecba0c3eb10cd23467 |  27bbd0db | D:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark
+10:50:37                                 Arma 3 Helicopters |                 heli |       true |             GAME DIR | 64ed9325986f69e98512d4a7ec8a01f757fd37da |   5da2bee | D:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli
+10:50:37                                       Arma 3 Karts |                 kart |       true |             GAME DIR | 7db3aebfcb3b5fe3c1a7ea5efe9920d931f2ade3 |  a1b8b7e0 | D:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart
+10:50:37                                        Arma 3 Zeus |              curator |       true |             GAME DIR | ab49dca3578df6f55d4312491ddf43cb436f8f56 |   c6e5b09 | D:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator
+10:50:37                                             Arma 3 |                   A3 |       true |            NOT FOUND |                                          |           | 
+10:50:37 ==========================================================================================================================================================================================================
+10:50:37 DX11 - Initializing DX11 engine.
+10:50:37 DX11 - Using DXGI adapter 0 (detected in config).
+10:50:37 DX11 - Using DXGI adapter 0.
+10:50:37     - adapter description : NVIDIA GeForce GTX 970
+10:50:37     - adapter vendor ID : 4318
+10:50:37     - adapter device ID : 5058
+10:50:37     - adapter subsys ID : 288428254
+10:50:37     - adapter revision  : 161
+10:50:37     - dedicated video memory : 3221225472
+10:50:37     - dedicated system memory : 0
+10:50:37     - shared system memory : 1073676288
+10:50:37 InitSound ...
+10:50:38 InitSound - complete
+10:50:38 Detected Joystick: Logitech Extreme 3D
+10:50:38     0 ... X Axis [1,30]
+10:50:38     1 ... Y Axis [1,31]
+10:50:38     5 ... Z Rotation [1,35]
+10:50:38     6 ... Slider 1 [1,36]
+10:50:40 PhysX3 SDK Init started ...
+10:50:40 PhysX3 SDK Init ended.
+10:50:41 Attempt to override final function - rscminimap_script
+10:50:41 Attempt to override final function - rscdisplayloading_script
+10:50:41 Attempt to override final function - rscdisplayloading_script
+10:50:41 Attempt to override final function - rscdisplayloading_script
+10:50:41 Attempt to override final function - rscdiary_script
+10:50:41 Attempt to override final function - rscdiary_script
+10:50:41 Attempt to override final function - rscdisplayremotemissions_script
+10:50:41 Attempt to override final function - rscdisplayloading_script
+10:50:41 Attempt to override final function - rscdiary_script
+10:50:41 Attempt to override final function - rscdiary_script
+10:50:41 Attempt to override final function - rscdisplaystrategicmap_script
+10:50:41 Attempt to override final function - rscdisplaycommon_script
+10:50:41 Attempt to override final function - rscdisplaygarage_script
+10:50:41 Attempt to override final function - rscdisplayhostsettings_script
+10:50:41 Attempt to override final function - rscdisplayloading_script
+10:50:42 Attempt to override final function - rscdisplaycurator_script
+10:50:42 Attempt to override final function - display3deneditcomposition_script
+10:50:42 Attempt to override final function - display3deneditattributes_script
+10:50:42 Attempt to override final function - display3deneditattributes_script
+10:50:42 Attempt to override final function - rscdisplayhostsettings_script
+10:50:42 Attempt to override final function - rscdisplaycommon_script
+10:50:42 Attempt to override final function - rscdisplaydebriefing_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:42 Attempt to override final function - rscunitinfo_script
+10:50:43 SimulWeather - Cloud Renderer - noise texture file is not specified!
+10:50:47 Starting mission:
+10:50:47  Mission file: tanoa_intro1
+10:50:47  Mission world: tanoa
+10:50:47  Mission directory: a3\map_tanoa_scenes_f\scenes\tanoa_intro1.tanoa\
+10:50:49 No more slot to add connection at 015030 (1523.6,3012.8)
+10:50:53 Warning: Unaccessible ladder point for AI (already used for actionbegin2) in a3\structures_f_exp\commercial\shop_city_01\shop_city_01_f.p3d
+10:50:53 Warning: Unaccessible ladder point for AI (already used for actionbegin2) in a3\structures_f_exp\commercial\shop_city_01\shop_city_01_f.p3d
+10:50:53 Warning: Unaccessible ladder point for AI (already used for actionend2) in a3\structures_f_exp\commercial\shop_city_01\shop_city_01_f.p3d
+10:50:53 Warning: Unaccessible ladder point for AI (already used for actionend2) in a3\structures_f_exp\commercial\shop_city_01\shop_city_01_f.p3d
+10:51:02 Attempt to override final function - bis_functions_list
+10:51:02 Attempt to override final function - bis_functions_listpreinit
+10:51:02 Attempt to override final function - bis_functions_listpostinit
+10:51:02 Attempt to override final function - bis_functions_listrecompile
+10:51:02 Attempt to override final function - bis_fnc_missiontaskslocal
+10:51:02 Attempt to override final function - bis_fnc_missionconversationslocal
+10:51:02 Attempt to override final function - bis_fnc_missionflow
+10:51:02 Loading movesType CfgGesturesMale
+10:51:02 MovesType CfgGesturesMale load time 208 ms
+10:51:02 Loading movesType CfgMovesMaleSdr
+10:51:06 MovesType CfgMovesMaleSdr load time 4259 ms
+10:51:10 Weather was forced to change
+10:55:26 Loading movesType CfgMovesButterfly
+10:55:27 Loading movesType CfgMovesBird
+10:55:27 MovesType CfgMovesBird load time 25 ms
+10:55:37 Starting mission:
+10:55:37  Mission file: FrostBittenAL (__CUR_MP)
+10:55:37  Mission world: Altis
+10:55:37  Mission directory: mpmissions\__CUR_MP.Altis\
+10:55:46 Strange convex component145 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+10:55:46 Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+10:55:56 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+10:55:56   Error position: <{}; private["_binConfigPatches","_cfgPat>
+10:55:56   Error Missing ;
+10:55:56 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+10:55:56 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+10:55:56   Error position: <{}; private["_binConfigPatches","_cfgPat>
+10:55:56   Error Missing ;
+10:55:56 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+10:55:56 Error in expression < make sure to read the server rules.",
+
+];
+>
+10:55:56   Error position: <];
+>
+10:55:56   Error Missing [
+10:55:56 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+10:55:56 Error in expression < make sure to read the server rules.",
+
+];
+>
+10:55:56   Error position: <];
+>
+10:55:56   Error Missing [
+10:55:56 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+10:55:56 Attempt to override final function - life_fnc_fastrope
+10:55:56 Attempt to override final function - life_fnc_fastrope_meta
+10:55:56 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+10:55:56   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+10:55:56   Error Missing ]
+10:55:56 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+10:55:56 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+10:55:56   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+10:55:56   Error Missing ]
+10:55:56 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+10:55:56 Attempt to override final function - life_fnc_fastrope
+10:55:56 Attempt to override final function - life_fnc_fastrope_meta
+10:55:56 Attempt to override final function - life_fnc_fastrope
+10:55:56 Attempt to override final function - life_fnc_fastrope_meta
+10:55:56 Attempt to override final function - bis_functions_list
+10:55:56 Attempt to override final function - bis_functions_listpreinit
+10:55:56 Attempt to override final function - bis_functions_listpostinit
+10:55:56 Attempt to override final function - bis_functions_listrecompile
+10:55:56 Attempt to override final function - bis_fnc_missiontaskslocal
+10:55:56 Attempt to override final function - bis_fnc_missionconversationslocal
+10:55:56 Attempt to override final function - bis_fnc_missionflow
+10:55:58 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 1c not found
+10:55:58 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 2c not found
+10:55:58 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 3c not found
+10:55:58 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 4c not found
+10:55:58 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 5c not found
+10:55:58 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 6c not found
+10:55:58 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 7c not found
+10:55:58 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 8c not found
+10:55:58 Wrong geometry convex component mapping  for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Convex component number 3. not found
+10:55:59 Dimensions in class B_HMG_01_high_F should be an array of size 2.
+10:55:59 class HitPoints::HitFuel not found in B_HMG_01_high_F
+10:55:59 NonAI vehicle where AI expected - 1816579: cl_feathers2.p3d
+10:55:59 NonAI vehicle where AI expected - 1816581: cl_grass2.p3d
+10:55:59 NonAI vehicle where AI expected - 1816582: cl_grass2.p3d
+10:55:59 NonAI vehicle where AI expected - 1816583: cl_leaf.p3d
+10:56:00 Time was adjusted to keep it same as on server.
+10:56:00 String STR_License_Bounty not found
+10:56:00 Error in expression <   ! License_adac_car && player == east side >
+10:56:00   Error position: <side >
+10:56:00   Error Missing ;
+10:56:00 Error in expression <   ! License_adac_air && player == east side >
+10:56:00   Error position: <side >
+10:56:00   Error Missing ;
+10:56:00 Error in expression <   ! License_adac_air && player == east side >
+10:56:00   Error position: <side >
+10:56:00   Error Missing ;
+10:56:01 Strange convex component322 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+10:56:01 Strange convex component327 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:02 Network simulation, time = 0.000
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:02 Group C Delta 4-1 (0x8efc6200) - network ID 2:4304
+10:56:02  - no main subgroup
+10:56:03 Attempt to override final function - bis_fnc_endmission
+10:56:03 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+10:56:03   Error position: <{}; private["_binConfigPatches","_cfgPat>
+10:56:03   Error Missing ;
+10:56:03 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+10:56:03 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+10:56:03   Error position: <exitWith {}; private["_binConfigPatches">
+10:56:03   Error Undefined variable in expression: exitwith
+10:56:03 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+10:56:04  Mission id: 233ab3de23691bf4d2a55b041628afe808c684af
+10:56:04 Fresnel k must be >0, given n=2.51,k=0
+10:56:05 Loading movesType CfgMovesRabbit_F
+10:56:05 MovesType CfgMovesRabbit_F load time 228 ms
+10:56:05 Loading movesType CfgMovesSnakes_F
+10:56:05 MovesType CfgMovesSnakes_F load time 100 ms
+10:56:06 "------------------------------------------------------------------------------------------------------"
+10:56:06 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+10:56:06 "------------------------------------------------------------------------------------------------------"
+10:56:06 "::Life Client:: Initialization Variables"
+10:56:06 "::Life Client:: Variables initialized"
+10:56:06 "::Life Client:: Setting up Eventhandlers"
+10:56:06 "::Life Client:: Eventhandlers completed"
+10:56:06 "::Life Client:: Setting up user actions"
+10:56:06 "::Life Client:: User actions completed"
+10:56:06 "::Life Client:: Waiting for server functions to transfer.."
+10:56:06 "::Life Client:: Received server functions."
+10:56:06 "::Life Client:: Waiting for the server to be ready.."
+10:56:08 Warning Message: No entry 'mpmissions\__CUR_MP.Altis\description.ext/life_spawn_selection/controlsBackground/MapView.LineMarker'.
+10:56:08 Warning Message: No entry '.lineWidthThin'.
+10:56:08 Warning Message: '/' is not a value
+10:56:08 Warning Message: No entry '.lineWidthThick'.
+10:56:08 Warning Message: '/' is not a value
+10:56:08 Warning Message: No entry '.lineDistanceMin'.
+10:56:08 Warning Message: '/' is not a value
+10:56:08 Warning Message: No entry '.lineLengthMin'.
+10:56:08 Warning Message: '/' is not a value
+10:56:14 "Past Settings Init"
+10:56:14 "Executing client.fsm"
+10:56:14 "Display 46 Found"
+10:56:14 "------------------------------------------------------------------------------------------------------"
+10:56:14 "                End of Altis Life Client Init :: Total Execution Time 8.44299 seconds "
+10:56:14 "------------------------------------------------------------------------------------------------------"
+10:56:38 String STR_License_Bounty not found
+10:56:41 Loading movesType CfgMovesFishes_F
+10:56:41 MovesType CfgMovesFishes_F load time 24 ms
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:46 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:46   Error Undefined variable in expression: fnc_index
+10:56:46 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:56:50 Error in expression <r;
+_index = [_x,(call buy_array) ] call fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error position: <fnc_index;
+if(_index != -1) then
+{
+_pric>
+10:56:50   Error Undefined variable in expression: fnc_index
+10:56:50 File mpmissions\__CUR_MP.Altis\core\shops\fn_virt_update.sqf, line 26
+10:57:06 Time was adjusted to keep it same as on server.
+10:58:05 Starting mission:
+10:58:05  Mission file: FrostBittenAL (__CUR_MP)
+10:58:05  Mission world: Altis
+10:58:05  Mission directory: mpmissions\__CUR_MP.Altis\
+10:58:06 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+10:58:06   Error position: <{}; private["_binConfigPatches","_cfgPat>
+10:58:06   Error Missing ;
+10:58:06 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+10:58:06 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+10:58:06   Error position: <{}; private["_binConfigPatches","_cfgPat>
+10:58:06   Error Missing ;
+10:58:06 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+10:58:06 Error in expression < make sure to read the server rules.",
+
+];
+>
+10:58:06   Error position: <];
+>
+10:58:06   Error Missing [
+10:58:06 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+10:58:06 Error in expression < make sure to read the server rules.",
+
+];
+>
+10:58:06   Error position: <];
+>
+10:58:06   Error Missing [
+10:58:06 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+10:58:06 Attempt to override final function - life_fnc_fastrope
+10:58:06 Attempt to override final function - life_fnc_fastrope_meta
+10:58:06 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+10:58:06   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+10:58:06   Error Missing ]
+10:58:06 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+10:58:06 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+10:58:06   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+10:58:06   Error Missing ]
+10:58:06 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+10:58:06 Attempt to override final function - life_fnc_fastrope
+10:58:06 Attempt to override final function - life_fnc_fastrope_meta
+10:58:06 Attempt to override final function - life_fnc_fastrope
+10:58:06 Attempt to override final function - life_fnc_fastrope_meta
+10:58:06 Attempt to override final function - bis_functions_list
+10:58:06 Attempt to override final function - bis_functions_listpreinit
+10:58:06 Attempt to override final function - bis_functions_listpostinit
+10:58:06 Attempt to override final function - bis_functions_listrecompile
+10:58:06 Attempt to override final function - bis_fnc_missiontaskslocal
+10:58:06 Attempt to override final function - bis_fnc_missionconversationslocal
+10:58:06 Attempt to override final function - bis_fnc_missionflow
+10:58:07 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+10:58:07 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+10:58:07 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+10:58:07 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+10:58:09 Time was adjusted to keep it same as on server.
+10:58:09 String STR_License_Bounty not found
+10:58:10 Error in expression <   ! License_adac_car && player == east side >
+10:58:10   Error position: <side >
+10:58:10   Error Missing ;
+10:58:10 Error in expression <   ! License_adac_air && player == east side >
+10:58:10   Error position: <side >
+10:58:10   Error Missing ;
+10:58:10 Error in expression <   ! License_adac_air && player == east side >
+10:58:10   Error position: <side >
+10:58:10   Error Missing ;
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:10 Network simulation, time = 0.051
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:10 Group C Delta 4-1 (0x8f0e0400) - network ID 2:4311
+10:58:10  - no main subgroup
+10:58:11 Attempt to override final function - bis_fnc_endmission
+10:58:11 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+10:58:11   Error position: <{}; private["_binConfigPatches","_cfgPat>
+10:58:11   Error Missing ;
+10:58:11 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+10:58:11 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+10:58:11   Error position: <exitWith {}; private["_binConfigPatches">
+10:58:11   Error Undefined variable in expression: exitwith
+10:58:11 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+10:58:11 "------------------------------------------------------------------------------------------------------"
+10:58:11 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+10:58:11 "------------------------------------------------------------------------------------------------------"
+10:58:11 "::Life Client:: Initialization Variables"
+10:58:11 "::Life Client:: Variables initialized"
+10:58:11 "::Life Client:: Setting up Eventhandlers"
+10:58:11 "::Life Client:: Eventhandlers completed"
+10:58:11 "::Life Client:: Setting up user actions"
+10:58:11 "::Life Client:: User actions completed"
+10:58:11 "::Life Client:: Waiting for server functions to transfer.."
+10:58:11 "::Life Client:: Received server functions."
+10:58:11 "::Life Client:: Waiting for the server to be ready.."
+10:58:11  Mission id: 233ab3de23691bf4d2a55b041628afe808c684af
+10:58:11 Error in expression <Mags","_vMags","_handle"];
+_itemArray = life_gear;
+waitUntil {!(isNull (findDisp>
+10:58:11   Error position: <life_gear;
+waitUntil {!(isNull (findDisp>
+10:58:11   Error Undefined variable in expression: life_gear
+10:58:11 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 9
+10:58:11 Error in expression <layer;
+removeHeadGear player;
+
+if(count _itemArray == 0) exitWith
+{
+switch(playe>
+10:58:11   Error position: <_itemArray == 0) exitWith
+{
+switch(playe>
+10:58:11   Error Undefined variable in expression: _itemarray
+10:58:11 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 20
+11:00:06 Time was adjusted to keep it same as on server.
+11:07:34 Warning Message: Picture icons\loading.jpg not found
+11:07:38 Warning Message: Picture icons\loading.jpg not found
+11:07:47 Starting mission:
+11:07:47  Mission file: FrostBittenAL (__CUR_MP)
+11:07:47  Mission world: Altis
+11:07:47  Mission directory: mpmissions\__CUR_MP.Altis\
+11:07:48 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:07:48   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:07:48   Error Missing ;
+11:07:48 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:07:48 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:07:48   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:07:48   Error Missing ;
+11:07:48 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:07:48 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:07:48   Error position: <];
+>
+11:07:48   Error Missing [
+11:07:48 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:07:48 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:07:48   Error position: <];
+>
+11:07:48   Error Missing [
+11:07:48 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:07:48 Attempt to override final function - life_fnc_fastrope
+11:07:48 Attempt to override final function - life_fnc_fastrope_meta
+11:07:48 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:07:48   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:07:48   Error Missing ]
+11:07:48 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:07:48 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:07:48   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:07:48   Error Missing ]
+11:07:48 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:07:48 Attempt to override final function - life_fnc_fastrope
+11:07:48 Attempt to override final function - life_fnc_fastrope_meta
+11:07:48 Attempt to override final function - life_fnc_fastrope
+11:07:48 Attempt to override final function - life_fnc_fastrope_meta
+11:07:48 Attempt to override final function - bis_functions_list
+11:07:48 Attempt to override final function - bis_functions_listpreinit
+11:07:48 Attempt to override final function - bis_functions_listpostinit
+11:07:48 Attempt to override final function - bis_functions_listrecompile
+11:07:48 Attempt to override final function - bis_fnc_missiontaskslocal
+11:07:48 Attempt to override final function - bis_fnc_missionconversationslocal
+11:07:48 Attempt to override final function - bis_fnc_missionflow
+11:07:50 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+11:07:50 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+11:07:50 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+11:07:50 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+11:07:55 Time was adjusted to keep it same as on server.
+11:07:55 String STR_License_Bounty not found
+11:07:55 Error in expression <   ! License_adac_car && player == east side >
+11:07:55   Error position: <side >
+11:07:55   Error Missing ;
+11:07:55 Error in expression <   ! License_adac_air && player == east side >
+11:07:55   Error position: <side >
+11:07:55   Error Missing ;
+11:07:55 Error in expression <   ! License_adac_air && player == east side >
+11:07:55   Error position: <side >
+11:07:55   Error Missing ;
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Network simulation, time = 0.131
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Group C Delta 4-1 (0x8b2ff380) - network ID 2:4304
+11:07:56  - no main subgroup
+11:07:56 Attempt to override final function - bis_fnc_endmission
+11:07:56 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:07:56   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:07:56   Error Missing ;
+11:07:56 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:07:56 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+11:07:56   Error position: <exitWith {}; private["_binConfigPatches">
+11:07:56   Error Undefined variable in expression: exitwith
+11:07:56 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:07:56 "------------------------------------------------------------------------------------------------------"
+11:07:56 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+11:07:56 "------------------------------------------------------------------------------------------------------"
+11:07:56 "::Life Client:: Initialization Variables"
+11:07:56 "::Life Client:: Variables initialized"
+11:07:56 "::Life Client:: Setting up Eventhandlers"
+11:07:56 "::Life Client:: Eventhandlers completed"
+11:07:56 "::Life Client:: Setting up user actions"
+11:07:56 "::Life Client:: User actions completed"
+11:07:56 "::Life Client:: Waiting for server functions to transfer.."
+11:07:56 "::Life Client:: Received server functions."
+11:07:56 "::Life Client:: Waiting for the server to be ready.."
+11:07:57  Mission id: 6854bf25ef9bf99089544dcd9e73fcf9954fe725
+11:07:57 Error in expression <Mags","_vMags","_handle"];
+_itemArray = life_gear;
+waitUntil {!(isNull (findDisp>
+11:07:57   Error position: <life_gear;
+waitUntil {!(isNull (findDisp>
+11:07:57   Error Undefined variable in expression: life_gear
+11:07:57 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 9
+11:07:57 Error in expression <layer;
+removeHeadGear player;
+
+if(count _itemArray == 0) exitWith
+{
+switch(playe>
+11:07:57   Error position: <_itemArray == 0) exitWith
+{
+switch(playe>
+11:07:57   Error Undefined variable in expression: _itemarray
+11:07:57 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 20
+11:09:35 Time was adjusted to keep it same as on server.
+11:20:12 Warning Message: Picture icons\loading.jpg not found
+11:20:15 Warning Message: Picture icons\loading.jpg not found
+11:20:27 Starting mission:
+11:20:27  Mission file: FrostBittenAL (__CUR_MP)
+11:20:27  Mission world: Altis
+11:20:27  Mission directory: mpmissions\__CUR_MP.Altis\
+11:20:28 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:20:28   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:20:28   Error Missing ;
+11:20:28 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:20:28 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:20:28   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:20:28   Error Missing ;
+11:20:28 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:20:28 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:20:28   Error position: <];
+>
+11:20:28   Error Missing [
+11:20:28 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:20:28 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:20:28   Error position: <];
+>
+11:20:28   Error Missing [
+11:20:28 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:20:28 Attempt to override final function - life_fnc_fastrope
+11:20:28 Attempt to override final function - life_fnc_fastrope_meta
+11:20:28 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:20:28   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:20:28   Error Missing ]
+11:20:28 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:20:28 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:20:28   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:20:28   Error Missing ]
+11:20:28 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:20:28 Attempt to override final function - life_fnc_fastrope
+11:20:28 Attempt to override final function - life_fnc_fastrope_meta
+11:20:28 Attempt to override final function - life_fnc_fastrope
+11:20:28 Attempt to override final function - life_fnc_fastrope_meta
+11:20:28 Attempt to override final function - bis_functions_list
+11:20:28 Attempt to override final function - bis_functions_listpreinit
+11:20:28 Attempt to override final function - bis_functions_listpostinit
+11:20:28 Attempt to override final function - bis_functions_listrecompile
+11:20:28 Attempt to override final function - bis_fnc_missiontaskslocal
+11:20:28 Attempt to override final function - bis_fnc_missionconversationslocal
+11:20:28 Attempt to override final function - bis_fnc_missionflow
+11:20:30 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+11:20:30 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+11:20:30 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+11:20:30 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+11:20:35 Time was adjusted to keep it same as on server.
+11:20:35 String STR_License_Bounty not found
+11:20:35 Error in expression <   ! License_adac_car && player == east side >
+11:20:35   Error position: <side >
+11:20:35   Error Missing ;
+11:20:35 Error in expression <   ! License_adac_air && player == east side >
+11:20:35   Error position: <side >
+11:20:35   Error Missing ;
+11:20:35 Error in expression <   ! License_adac_air && player == east side >
+11:20:35   Error position: <side >
+11:20:35   Error Missing ;
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Network simulation, time = 0.123
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:36 Group B Alpha 3-1 (0x8ebb1300) - network ID 2:4306
+11:20:36  - no main subgroup
+11:20:37 Attempt to override final function - bis_fnc_endmission
+11:20:37 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:20:37   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:20:37   Error Missing ;
+11:20:37 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:20:37 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+11:20:37   Error position: <exitWith {}; private["_binConfigPatches">
+11:20:37   Error Undefined variable in expression: exitwith
+11:20:37 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:20:37 "------------------------------------------------------------------------------------------------------"
+11:20:37 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+11:20:37 "------------------------------------------------------------------------------------------------------"
+11:20:37 "::Life Client:: Initialization Variables"
+11:20:37 "::Life Client:: Variables initialized"
+11:20:37 "::Life Client:: Setting up Eventhandlers"
+11:20:37 "::Life Client:: Eventhandlers completed"
+11:20:37 "::Life Client:: Setting up user actions"
+11:20:37 "::Life Client:: User actions completed"
+11:20:37 "::Life Client:: Waiting for server functions to transfer.."
+11:20:37 "::Life Client:: Received server functions."
+11:20:37 "::Life Client:: Waiting for the server to be ready.."
+11:20:37  Mission id: aa27665833389e3a46d04dc36555ca1b60722ee7
+11:20:37 Error in expression <p\fn_copUniform.sqf"
+
+
+
+
+
+
+
+
+
+if ((call life_coplevel) > 0)  then {
+player setOb>
+11:20:37   Error position: <life_coplevel) > 0)  then {
+player setOb>
+11:20:37   Error Undefined variable in expression: life_coplevel
+11:20:37 File mpmissions\__CUR_MP.Altis\core\cop\fn_copUniform.sqf, line 10
+11:20:37 Warning Message: No entry 'mpmissions\__CUR_MP.Altis\description.ext/life_spawn_selection/controlsBackground/MapView.LineMarker'.
+11:20:37 Warning Message: No entry '.lineWidthThin'.
+11:20:37 Warning Message: '/' is not a value
+11:20:37 Warning Message: No entry '.lineWidthThick'.
+11:20:37 Warning Message: '/' is not a value
+11:20:37 Warning Message: No entry '.lineDistanceMin'.
+11:20:37 Warning Message: '/' is not a value
+11:20:37 Warning Message: No entry '.lineLengthMin'.
+11:20:37 Warning Message: '/' is not a value
+11:20:43 "Past Settings Init"
+11:20:43 "Executing client.fsm"
+11:20:43 "Display 46 Found"
+11:20:43 "------------------------------------------------------------------------------------------------------"
+11:20:43 "                End of Altis Life Client Init :: Total Execution Time 6.25903 seconds "
+11:20:43 "------------------------------------------------------------------------------------------------------"
+11:21:09 Starting mission:
+11:21:09  Mission file: FrostBittenAL (__CUR_MP)
+11:21:09  Mission world: Altis
+11:21:09  Mission directory: mpmissions\__CUR_MP.Altis\
+11:21:10 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:21:10   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:21:10   Error Missing ;
+11:21:10 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:21:10 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:21:10   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:21:10   Error Missing ;
+11:21:10 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:21:10 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:21:10   Error position: <];
+>
+11:21:10   Error Missing [
+11:21:10 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:21:10 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:21:10   Error position: <];
+>
+11:21:10   Error Missing [
+11:21:10 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:21:10 Attempt to override final function - life_fnc_fastrope
+11:21:10 Attempt to override final function - life_fnc_fastrope_meta
+11:21:10 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:21:10   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:21:10   Error Missing ]
+11:21:10 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:21:10 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:21:10   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:21:10   Error Missing ]
+11:21:10 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:21:10 Attempt to override final function - life_fnc_fastrope
+11:21:10 Attempt to override final function - life_fnc_fastrope_meta
+11:21:10 Attempt to override final function - life_fnc_fastrope
+11:21:10 Attempt to override final function - life_fnc_fastrope_meta
+11:21:10 Attempt to override final function - bis_functions_list
+11:21:10 Attempt to override final function - bis_functions_listpreinit
+11:21:10 Attempt to override final function - bis_functions_listpostinit
+11:21:10 Attempt to override final function - bis_functions_listrecompile
+11:21:10 Attempt to override final function - bis_fnc_missiontaskslocal
+11:21:10 Attempt to override final function - bis_fnc_missionconversationslocal
+11:21:10 Attempt to override final function - bis_fnc_missionflow
+11:21:10 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+11:21:10 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+11:21:10 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+11:21:10 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+11:21:11 Time was adjusted to keep it same as on server.
+11:21:12 String STR_License_Bounty not found
+11:21:12 Error in expression <   ! License_adac_car && player == east side >
+11:21:12   Error position: <side >
+11:21:12   Error Missing ;
+11:21:12 Error in expression <   ! License_adac_air && player == east side >
+11:21:12   Error position: <side >
+11:21:12   Error Missing ;
+11:21:12 Error in expression <   ! License_adac_air && player == east side >
+11:21:12   Error position: <side >
+11:21:12   Error Missing ;
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Network simulation, time = 0.149
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Group C Delta 4-1 (0x8be3df80) - network ID 2:4313
+11:21:12  - no main subgroup
+11:21:12 Attempt to override final function - bis_fnc_endmission
+11:21:12 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:21:12   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:21:12   Error Missing ;
+11:21:12 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:21:12 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+11:21:12   Error position: <exitWith {}; private["_binConfigPatches">
+11:21:12   Error Undefined variable in expression: exitwith
+11:21:12 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:21:12 "------------------------------------------------------------------------------------------------------"
+11:21:12 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+11:21:12 "------------------------------------------------------------------------------------------------------"
+11:21:12 "::Life Client:: Initialization Variables"
+11:21:13 "::Life Client:: Variables initialized"
+11:21:13 "::Life Client:: Setting up Eventhandlers"
+11:21:13 "::Life Client:: Eventhandlers completed"
+11:21:13 "::Life Client:: Setting up user actions"
+11:21:13 "::Life Client:: User actions completed"
+11:21:13 "::Life Client:: Waiting for server functions to transfer.."
+11:21:13 "::Life Client:: Received server functions."
+11:21:13 "::Life Client:: Waiting for the server to be ready.."
+11:21:13  Mission id: aa27665833389e3a46d04dc36555ca1b60722ee7
+11:21:13 Error in expression <Mags","_vMags","_handle"];
+_itemArray = life_gear;
+waitUntil {!(isNull (findDisp>
+11:21:13   Error position: <life_gear;
+waitUntil {!(isNull (findDisp>
+11:21:13   Error Undefined variable in expression: life_gear
+11:21:13 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 9
+11:21:13 Error in expression <layer;
+removeHeadGear player;
+
+if(count _itemArray == 0) exitWith
+{
+switch(playe>
+11:21:13   Error position: <_itemArray == 0) exitWith
+{
+switch(playe>
+11:21:13   Error Undefined variable in expression: _itemarray
+11:21:13 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 20
+11:22:53 Time was adjusted to keep it same as on server.
+11:24:06 Starting mission:
+11:24:06  Mission file: FrostBittenAL (__CUR_MP)
+11:24:06  Mission world: Altis
+11:24:06  Mission directory: mpmissions\__CUR_MP.Altis\
+11:24:06 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:24:06   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:24:06   Error Missing ;
+11:24:06 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:24:06 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:24:06   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:24:06   Error Missing ;
+11:24:06 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:24:06 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:24:06   Error position: <];
+>
+11:24:06   Error Missing [
+11:24:06 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:24:06 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:24:06   Error position: <];
+>
+11:24:06   Error Missing [
+11:24:06 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:24:06 Attempt to override final function - life_fnc_fastrope
+11:24:06 Attempt to override final function - life_fnc_fastrope_meta
+11:24:06 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:24:06   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:24:06   Error Missing ]
+11:24:06 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:24:06 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:24:06   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:24:06   Error Missing ]
+11:24:06 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:24:06 Attempt to override final function - life_fnc_fastrope
+11:24:06 Attempt to override final function - life_fnc_fastrope_meta
+11:24:06 Attempt to override final function - life_fnc_fastrope
+11:24:06 Attempt to override final function - life_fnc_fastrope_meta
+11:24:07 Attempt to override final function - bis_functions_list
+11:24:07 Attempt to override final function - bis_functions_listpreinit
+11:24:07 Attempt to override final function - bis_functions_listpostinit
+11:24:07 Attempt to override final function - bis_functions_listrecompile
+11:24:07 Attempt to override final function - bis_fnc_missiontaskslocal
+11:24:07 Attempt to override final function - bis_fnc_missionconversationslocal
+11:24:07 Attempt to override final function - bis_fnc_missionflow
+11:24:07 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+11:24:07 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+11:24:07 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+11:24:07 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+11:24:08 Time was adjusted to keep it same as on server.
+11:24:08 String STR_License_Bounty not found
+11:24:08 Error in expression <   ! License_adac_car && player == east side >
+11:24:08   Error position: <side >
+11:24:08   Error Missing ;
+11:24:08 Error in expression <   ! License_adac_air && player == east side >
+11:24:08   Error position: <side >
+11:24:08   Error Missing ;
+11:24:08 Error in expression <   ! License_adac_air && player == east side >
+11:24:08   Error position: <side >
+11:24:08   Error Missing ;
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Network simulation, time = 0.166
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Group C Delta 4-1 (0x98617600) - network ID 2:4319
+11:24:09  - no main subgroup
+11:24:09 Attempt to override final function - bis_fnc_endmission
+11:24:09 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:24:09   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:24:09   Error Missing ;
+11:24:09 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:24:09 "------------------------------------------------------------------------------------------------------"
+11:24:09 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+11:24:09 "------------------------------------------------------------------------------------------------------"
+11:24:09 "::Life Client:: Initialization Variables"
+11:24:09 "::Life Client:: Variables initialized"
+11:24:09 "::Life Client:: Setting up Eventhandlers"
+11:24:09 "::Life Client:: Eventhandlers completed"
+11:24:09 "::Life Client:: Setting up user actions"
+11:24:09 "::Life Client:: User actions completed"
+11:24:09 "::Life Client:: Waiting for server functions to transfer.."
+11:24:09 "::Life Client:: Received server functions."
+11:24:09 "::Life Client:: Waiting for the server to be ready.."
+11:24:09 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+11:24:09   Error position: <exitWith {}; private["_binConfigPatches">
+11:24:09   Error Undefined variable in expression: exitwith
+11:24:09 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:24:09 Ragdoll - loading of ragdoll source "Soldier" started.
+11:24:09 Ragdoll - loading of ragdoll source "Soldier" finished successfully.
+11:24:09  Mission id: aa27665833389e3a46d04dc36555ca1b60722ee7
+11:24:10 Error in expression <Mags","_vMags","_handle"];
+_itemArray = life_gear;
+waitUntil {!(isNull (findDisp>
+11:24:10   Error position: <life_gear;
+waitUntil {!(isNull (findDisp>
+11:24:10   Error Undefined variable in expression: life_gear
+11:24:10 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 9
+11:24:10 Error in expression <layer;
+removeHeadGear player;
+
+if(count _itemArray == 0) exitWith
+{
+switch(playe>
+11:24:10   Error position: <_itemArray == 0) exitWith
+{
+switch(playe>
+11:24:10   Error Undefined variable in expression: _itemarray
+11:24:10 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 20
+11:25:53 Time was adjusted to keep it same as on server.
+11:27:53 Time was adjusted to keep it same as on server.
+11:29:53 Time was adjusted to keep it same as on server.
+11:31:53 Time was adjusted to keep it same as on server.
+11:33:53 Time was adjusted to keep it same as on server.
+11:35:53 Time was adjusted to keep it same as on server.
+11:37:53 Time was adjusted to keep it same as on server.
+11:38:02 Starting mission:
+11:38:02  Mission file: FrostBittenAL (__CUR_MP)
+11:38:02  Mission world: Altis
+11:38:02  Mission directory: mpmissions\__CUR_MP.Altis\
+11:38:02 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:38:02   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:38:02   Error Missing ;
+11:38:02 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:38:02 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:38:02   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:38:02   Error Missing ;
+11:38:02 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:38:02 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:38:02   Error position: <];
+>
+11:38:02   Error Missing [
+11:38:02 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:38:02 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:38:02   Error position: <];
+>
+11:38:02   Error Missing [
+11:38:02 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:38:02 Attempt to override final function - life_fnc_fastrope
+11:38:02 Attempt to override final function - life_fnc_fastrope_meta
+11:38:02 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:38:02   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:38:02   Error Missing ]
+11:38:02 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:38:02 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:38:02   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:38:02   Error Missing ]
+11:38:02 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:38:02 Attempt to override final function - life_fnc_fastrope
+11:38:02 Attempt to override final function - life_fnc_fastrope_meta
+11:38:02 Attempt to override final function - life_fnc_fastrope
+11:38:02 Attempt to override final function - life_fnc_fastrope_meta
+11:38:03 Attempt to override final function - bis_functions_list
+11:38:03 Attempt to override final function - bis_functions_listpreinit
+11:38:03 Attempt to override final function - bis_functions_listpostinit
+11:38:03 Attempt to override final function - bis_functions_listrecompile
+11:38:03 Attempt to override final function - bis_fnc_missiontaskslocal
+11:38:03 Attempt to override final function - bis_fnc_missionconversationslocal
+11:38:03 Attempt to override final function - bis_fnc_missionflow
+11:38:03 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+11:38:03 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+11:38:03 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+11:38:03 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+11:38:07 Time was adjusted to keep it same as on server.
+11:38:07 String STR_License_Bounty not found
+11:38:08 Error in expression <   ! License_adac_car && player == east side >
+11:38:08   Error position: <side >
+11:38:08   Error Missing ;
+11:38:08 Error in expression <   ! License_adac_air && player == east side >
+11:38:08   Error position: <side >
+11:38:08   Error Missing ;
+11:38:08 Error in expression <   ! License_adac_air && player == east side >
+11:38:08   Error position: <side >
+11:38:08   Error Missing ;
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Network simulation, time = 0.051
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Group C Delta 4-1 (0x9202dd00) - network ID 2:4325
+11:38:09  - no main subgroup
+11:38:09 Attempt to override final function - bis_fnc_endmission
+11:38:09 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:38:09   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:38:09   Error Missing ;
+11:38:09 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:38:09 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+11:38:09   Error position: <exitWith {}; private["_binConfigPatches">
+11:38:09   Error Undefined variable in expression: exitwith
+11:38:09 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:38:09 "------------------------------------------------------------------------------------------------------"
+11:38:09 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+11:38:09 "------------------------------------------------------------------------------------------------------"
+11:38:09 "::Life Client:: Initialization Variables"
+11:38:09 "::Life Client:: Variables initialized"
+11:38:09 "::Life Client:: Setting up Eventhandlers"
+11:38:09 "::Life Client:: Eventhandlers completed"
+11:38:09 "::Life Client:: Setting up user actions"
+11:38:09 "::Life Client:: User actions completed"
+11:38:09 "::Life Client:: Waiting for server functions to transfer.."
+11:38:09 "::Life Client:: Received server functions."
+11:38:09 "::Life Client:: Waiting for the server to be ready.."
+11:38:09  Mission id: aa27665833389e3a46d04dc36555ca1b60722ee7
+11:38:10 Error in expression <Mags","_vMags","_handle"];
+_itemArray = life_gear;
+waitUntil {!(isNull (findDisp>
+11:38:10   Error position: <life_gear;
+waitUntil {!(isNull (findDisp>
+11:38:10   Error Undefined variable in expression: life_gear
+11:38:10 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 9
+11:38:10 Error in expression <layer;
+removeHeadGear player;
+
+if(count _itemArray == 0) exitWith
+{
+switch(playe>
+11:38:10   Error position: <_itemArray == 0) exitWith
+{
+switch(playe>
+11:38:10   Error Undefined variable in expression: _itemarray
+11:38:10 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 20
+11:47:13 Warning Message: Picture icons\loading.jpg not found
+11:47:16 Warning Message: Picture icons\loading.jpg not found
+11:47:25 Starting mission:
+11:47:25  Mission file: FrostBittenAL (__CUR_MP)
+11:47:25  Mission world: Altis
+11:47:25  Mission directory: mpmissions\__CUR_MP.Altis\
+11:47:26 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:47:26   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:47:26   Error Missing ;
+11:47:26 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:47:26 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:47:26   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:47:26   Error Missing ;
+11:47:26 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:47:26 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:47:26   Error position: <];
+>
+11:47:26   Error Missing [
+11:47:26 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:47:26 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:47:26   Error position: <];
+>
+11:47:26   Error Missing [
+11:47:26 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:47:26 Attempt to override final function - life_fnc_fastrope
+11:47:26 Attempt to override final function - life_fnc_fastrope_meta
+11:47:26 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:47:26   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:47:26   Error Missing ]
+11:47:26 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:47:26 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:47:26   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:47:26   Error Missing ]
+11:47:26 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:47:26 Attempt to override final function - life_fnc_fastrope
+11:47:26 Attempt to override final function - life_fnc_fastrope_meta
+11:47:26 Attempt to override final function - life_fnc_fastrope
+11:47:26 Attempt to override final function - life_fnc_fastrope_meta
+11:47:26 Attempt to override final function - bis_functions_list
+11:47:26 Attempt to override final function - bis_functions_listpreinit
+11:47:26 Attempt to override final function - bis_functions_listpostinit
+11:47:26 Attempt to override final function - bis_functions_listrecompile
+11:47:26 Attempt to override final function - bis_fnc_missiontaskslocal
+11:47:26 Attempt to override final function - bis_fnc_missionconversationslocal
+11:47:26 Attempt to override final function - bis_fnc_missionflow
+11:47:28 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+11:47:28 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+11:47:28 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+11:47:28 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+11:47:33 Time was adjusted to keep it same as on server.
+11:47:33 String STR_License_Bounty not found
+11:47:33 Error in expression <   ! License_adac_car && player == east side >
+11:47:33   Error position: <side >
+11:47:33   Error Missing ;
+11:47:33 Error in expression <   ! License_adac_air && player == east side >
+11:47:33   Error position: <side >
+11:47:33   Error Missing ;
+11:47:33 Error in expression <   ! License_adac_air && player == east side >
+11:47:33   Error position: <side >
+11:47:33   Error Missing ;
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Network simulation, time = 0.050
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Group C Delta 4-1 (0x58769580) - network ID 2:4304
+11:47:34  - no main subgroup
+11:47:34 Attempt to override final function - bis_fnc_endmission
+11:47:34 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:47:34   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:47:34   Error Missing ;
+11:47:34 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:47:34 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+11:47:34   Error position: <exitWith {}; private["_binConfigPatches">
+11:47:34   Error Undefined variable in expression: exitwith
+11:47:34 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:47:34 "------------------------------------------------------------------------------------------------------"
+11:47:34 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+11:47:34 "------------------------------------------------------------------------------------------------------"
+11:47:34 "::Life Client:: Initialization Variables"
+11:47:34 "::Life Client:: Variables initialized"
+11:47:34 "::Life Client:: Setting up Eventhandlers"
+11:47:34 "::Life Client:: Eventhandlers completed"
+11:47:34 "::Life Client:: Setting up user actions"
+11:47:34 "::Life Client:: User actions completed"
+11:47:34 "::Life Client:: Waiting for server functions to transfer.."
+11:47:34 "::Life Client:: Received server functions."
+11:47:34 "::Life Client:: Waiting for the server to be ready.."
+11:47:34  Mission id: 2c98066264d10d3121451e654e6e8c9dbf07d7b4
+11:47:35 Error in expression <Mags","_vMags","_handle"];
+_itemArray = life_gear;
+waitUntil {!(isNull (findDisp>
+11:47:35   Error position: <life_gear;
+waitUntil {!(isNull (findDisp>
+11:47:35   Error Undefined variable in expression: life_gear
+11:47:35 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 9
+11:47:35 Error in expression <layer;
+removeHeadGear player;
+
+if(count _itemArray == 0) exitWith
+{
+switch(playe>
+11:47:35   Error position: <_itemArray == 0) exitWith
+{
+switch(playe>
+11:47:35   Error Undefined variable in expression: _itemarray
+11:47:35 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 20
+11:50:09 Warning Message: Picture icons\loading.jpg not found
+11:50:38 Starting mission:
+11:50:38  Mission file: FrostBittenAL (__CUR_MP)
+11:50:38  Mission world: Altis
+11:50:38  Mission directory: mpmissions\__CUR_MP.Altis\
+11:50:39 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:50:39   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:50:39   Error Missing ;
+11:50:39 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:50:39 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:50:39   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:50:39   Error Missing ;
+11:50:39 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:50:39 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:50:39   Error position: <];
+>
+11:50:39   Error Missing [
+11:50:39 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:50:39 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:50:39   Error position: <];
+>
+11:50:39   Error Missing [
+11:50:39 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:50:40 Attempt to override final function - life_fnc_fastrope
+11:50:40 Attempt to override final function - life_fnc_fastrope_meta
+11:50:40 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:50:40   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:50:40   Error Missing ]
+11:50:40 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:50:40 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:50:40   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:50:40   Error Missing ]
+11:50:40 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:50:40 Attempt to override final function - life_fnc_fastrope
+11:50:40 Attempt to override final function - life_fnc_fastrope_meta
+11:50:40 Attempt to override final function - life_fnc_fastrope
+11:50:40 Attempt to override final function - life_fnc_fastrope_meta
+11:50:40 Attempt to override final function - bis_functions_list
+11:50:40 Attempt to override final function - bis_functions_listpreinit
+11:50:40 Attempt to override final function - bis_functions_listpostinit
+11:50:40 Attempt to override final function - bis_functions_listrecompile
+11:50:40 Attempt to override final function - bis_fnc_missiontaskslocal
+11:50:40 Attempt to override final function - bis_fnc_missionconversationslocal
+11:50:40 Attempt to override final function - bis_fnc_missionflow
+11:50:41 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+11:50:41 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+11:50:41 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+11:50:41 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+11:50:48 String STR_License_Bounty not found
+11:50:48 Error in expression <   ! License_adac_car && player == east side >
+11:50:48   Error position: <side >
+11:50:48   Error Missing ;
+11:50:48 Error in expression <   ! License_adac_air && player == east side >
+11:50:48   Error position: <side >
+11:50:48   Error Missing ;
+11:50:48 Error in expression <   ! License_adac_air && player == east side >
+11:50:48   Error position: <side >
+11:50:48   Error Missing ;
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Network simulation, time = 0.106
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Group C Delta 4-1 (0x673cf100) - network ID 2:4304
+11:50:50  - no main subgroup
+11:50:50 Attempt to override final function - bis_fnc_endmission
+11:50:50 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:50:50   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:50:50   Error Missing ;
+11:50:50 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:50:50 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+11:50:50   Error position: <exitWith {}; private["_binConfigPatches">
+11:50:50   Error Undefined variable in expression: exitwith
+11:50:50 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:50:50 "------------------------------------------------------------------------------------------------------"
+11:50:50 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+11:50:50 "------------------------------------------------------------------------------------------------------"
+11:50:50 "::Life Client:: Initialization Variables"
+11:50:50 "::Life Client:: Variables initialized"
+11:50:50 "::Life Client:: Setting up Eventhandlers"
+11:50:50 "::Life Client:: Eventhandlers completed"
+11:50:50 "::Life Client:: Setting up user actions"
+11:50:50 "::Life Client:: User actions completed"
+11:50:50 "::Life Client:: Waiting for server functions to transfer.."
+11:50:50 "::Life Client:: Received server functions."
+11:50:50 "::Life Client:: Waiting for the server to be ready.."
+11:50:50  Mission id: 630f291da60189bc55487c5ca6b24ac926d54e20
+11:50:51 Error in expression <Mags","_vMags","_handle"];
+_itemArray = life_gear;
+waitUntil {!(isNull (findDisp>
+11:50:51   Error position: <life_gear;
+waitUntil {!(isNull (findDisp>
+11:50:51   Error Undefined variable in expression: life_gear
+11:50:51 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 9
+11:50:51 Error in expression <layer;
+removeHeadGear player;
+
+if(count _itemArray == 0) exitWith
+{
+switch(playe>
+11:50:51   Error position: <_itemArray == 0) exitWith
+{
+switch(playe>
+11:50:51   Error Undefined variable in expression: _itemarray
+11:50:51 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 20
+11:52:24 Time was adjusted to keep it same as on server.
+11:54:24 Time was adjusted to keep it same as on server.
+11:56:11 Starting mission:
+11:56:11  Mission file: FrostBittenAL (__CUR_MP)
+11:56:11  Mission world: Altis
+11:56:11  Mission directory: mpmissions\__CUR_MP.Altis\
+11:56:12 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:56:12   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:56:12   Error Missing ;
+11:56:12 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:56:12 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:56:12   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:56:12   Error Missing ;
+11:56:12 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:56:12 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:56:12   Error position: <];
+>
+11:56:12   Error Missing [
+11:56:12 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:56:12 Error in expression < make sure to read the server rules.",
+
+];
+>
+11:56:12   Error position: <];
+>
+11:56:12   Error Missing [
+11:56:12 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+11:56:12 Attempt to override final function - life_fnc_fastrope
+11:56:12 Attempt to override final function - life_fnc_fastrope_meta
+11:56:12 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:56:12   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:56:12   Error Missing ]
+11:56:12 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:56:12 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:56:12   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+11:56:12   Error Missing ]
+11:56:12 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+11:56:12 Attempt to override final function - life_fnc_fastrope
+11:56:12 Attempt to override final function - life_fnc_fastrope_meta
+11:56:12 Attempt to override final function - life_fnc_fastrope
+11:56:12 Attempt to override final function - life_fnc_fastrope_meta
+11:56:12 Attempt to override final function - bis_functions_list
+11:56:12 Attempt to override final function - bis_functions_listpreinit
+11:56:12 Attempt to override final function - bis_functions_listpostinit
+11:56:12 Attempt to override final function - bis_functions_listrecompile
+11:56:12 Attempt to override final function - bis_fnc_missiontaskslocal
+11:56:12 Attempt to override final function - bis_fnc_missionconversationslocal
+11:56:12 Attempt to override final function - bis_fnc_missionflow
+11:56:13 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+11:56:13 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+11:56:13 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+11:56:13 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+11:56:19 Time was adjusted to keep it same as on server.
+11:56:19 String STR_License_Bounty not found
+11:56:20 Error in expression <   ! License_adac_car && player == east side >
+11:56:20   Error position: <side >
+11:56:20   Error Missing ;
+11:56:20 Error in expression <   ! License_adac_air && player == east side >
+11:56:20   Error position: <side >
+11:56:20   Error Missing ;
+11:56:20 Error in expression <   ! License_adac_air && player == east side >
+11:56:20   Error position: <side >
+11:56:20   Error Missing ;
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Network simulation, time = 0.159
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Group C Delta 4-1 (0x67c62c00) - network ID 2:4311
+11:56:21  - no main subgroup
+11:56:21 Attempt to override final function - bis_fnc_endmission
+11:56:21 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+11:56:21   Error position: <{}; private["_binConfigPatches","_cfgPat>
+11:56:21   Error Missing ;
+11:56:21 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:56:21 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+11:56:21   Error position: <exitWith {}; private["_binConfigPatches">
+11:56:21   Error Undefined variable in expression: exitwith
+11:56:21 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+11:56:21 "------------------------------------------------------------------------------------------------------"
+11:56:21 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+11:56:21 "------------------------------------------------------------------------------------------------------"
+11:56:21 "::Life Client:: Initialization Variables"
+11:56:21 "::Life Client:: Variables initialized"
+11:56:21 "::Life Client:: Setting up Eventhandlers"
+11:56:21 "::Life Client:: Eventhandlers completed"
+11:56:21 "::Life Client:: Setting up user actions"
+11:56:21 "::Life Client:: User actions completed"
+11:56:21 "::Life Client:: Waiting for server functions to transfer.."
+11:56:21 "::Life Client:: Received server functions."
+11:56:21 "::Life Client:: Waiting for the server to be ready.."
+11:56:21  Mission id: 630f291da60189bc55487c5ca6b24ac926d54e20
+11:57:24 Time was adjusted to keep it same as on server.
+11:59:24 Time was adjusted to keep it same as on server.
+12:05:38 Warning Message: Picture icons\loading.jpg not found
+12:05:41 Warning Message: Picture icons\loading.jpg not found
+12:05:51 Starting mission:
+12:05:51  Mission file: FrostBittenAL (__CUR_MP)
+12:05:51  Mission world: Altis
+12:05:51  Mission directory: mpmissions\__CUR_MP.Altis\
+12:05:52 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:05:52   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:05:52   Error Missing ;
+12:05:52 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:05:52 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:05:52   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:05:52   Error Missing ;
+12:05:52 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:05:52 Error in expression < make sure to read the server rules.",
+
+];
+>
+12:05:52   Error position: <];
+>
+12:05:52   Error Missing [
+12:05:52 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+12:05:52 Error in expression < make sure to read the server rules.",
+
+];
+>
+12:05:52   Error position: <];
+>
+12:05:52   Error Missing [
+12:05:52 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+12:05:52 Attempt to override final function - life_fnc_fastrope
+12:05:52 Attempt to override final function - life_fnc_fastrope_meta
+12:05:52 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:05:52   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:05:52   Error Missing ]
+12:05:52 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+12:05:52 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:05:52   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:05:52   Error Missing ]
+12:05:52 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+12:05:52 Attempt to override final function - life_fnc_fastrope
+12:05:52 Attempt to override final function - life_fnc_fastrope_meta
+12:05:52 Attempt to override final function - life_fnc_fastrope
+12:05:52 Attempt to override final function - life_fnc_fastrope_meta
+12:05:52 Attempt to override final function - bis_functions_list
+12:05:52 Attempt to override final function - bis_functions_listpreinit
+12:05:52 Attempt to override final function - bis_functions_listpostinit
+12:05:52 Attempt to override final function - bis_functions_listrecompile
+12:05:52 Attempt to override final function - bis_fnc_missiontaskslocal
+12:05:52 Attempt to override final function - bis_fnc_missionconversationslocal
+12:05:52 Attempt to override final function - bis_fnc_missionflow
+12:05:54 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+12:05:54 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+12:05:54 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+12:05:54 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+12:05:59 Time was adjusted to keep it same as on server.
+12:06:00 String STR_License_Bounty not found
+12:06:00 Error in expression <   ! License_adac_car && player == east side >
+12:06:00   Error position: <side >
+12:06:00   Error Missing ;
+12:06:00 Error in expression <   ! License_adac_air && player == east side >
+12:06:00   Error position: <side >
+12:06:00   Error Missing ;
+12:06:00 Error in expression <   ! License_adac_air && player == east side >
+12:06:00   Error position: <side >
+12:06:00   Error Missing ;
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Network simulation, time = 0.114
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Group C Delta 4-1 (0x8bed0900) - network ID 2:4304
+12:06:01  - no main subgroup
+12:06:01 Attempt to override final function - bis_fnc_endmission
+12:06:01 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:06:01   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:06:01   Error Missing ;
+12:06:01 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:06:01 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+12:06:01   Error position: <exitWith {}; private["_binConfigPatches">
+12:06:01   Error Undefined variable in expression: exitwith
+12:06:01 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:06:01 "------------------------------------------------------------------------------------------------------"
+12:06:01 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+12:06:01 "------------------------------------------------------------------------------------------------------"
+12:06:01 "::Life Client:: Initialization Variables"
+12:06:01 "::Life Client:: Variables initialized"
+12:06:01 "::Life Client:: Setting up Eventhandlers"
+12:06:01 "::Life Client:: Eventhandlers completed"
+12:06:01 "::Life Client:: Setting up user actions"
+12:06:01 "::Life Client:: User actions completed"
+12:06:01 "::Life Client:: Waiting for server functions to transfer.."
+12:06:01 "::Life Client:: Received server functions."
+12:06:01 "::Life Client:: Waiting for the server to be ready.."
+12:06:01  Mission id: 7337c38712951a70d087458fa04e2f31425f8d60
+12:07:43 Time was adjusted to keep it same as on server.
+12:09:43 Time was adjusted to keep it same as on server.
+12:16:34 Warning Message: Picture icons\loading.jpg not found
+12:16:37 Warning Message: Picture icons\loading.jpg not found
+12:17:53 Starting mission:
+12:17:53  Mission file: FrostBittenAL (__CUR_MP)
+12:17:53  Mission world: Altis
+12:17:53  Mission directory: mpmissions\__CUR_MP.Altis\
+12:17:55 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:17:55   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:17:55   Error Missing ;
+12:17:55 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:17:55 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:17:55   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:17:55   Error Missing ;
+12:17:55 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:17:55 Error in expression < make sure to read the server rules.",
+
+];
+>
+12:17:55   Error position: <];
+>
+12:17:55   Error Missing [
+12:17:55 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+12:17:55 Error in expression < make sure to read the server rules.",
+
+];
+>
+12:17:55   Error position: <];
+>
+12:17:55   Error Missing [
+12:17:55 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+12:17:55 Attempt to override final function - life_fnc_fastrope
+12:17:55 Attempt to override final function - life_fnc_fastrope_meta
+12:17:55 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:17:55   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:17:55   Error Missing ]
+12:17:55 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+12:17:55 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:17:55   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:17:55   Error Missing ]
+12:17:55 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+12:17:55 Attempt to override final function - life_fnc_fastrope
+12:17:55 Attempt to override final function - life_fnc_fastrope_meta
+12:17:55 Attempt to override final function - life_fnc_fastrope
+12:17:55 Attempt to override final function - life_fnc_fastrope_meta
+12:17:55 Attempt to override final function - bis_functions_list
+12:17:55 Attempt to override final function - bis_functions_listpreinit
+12:17:55 Attempt to override final function - bis_functions_listpostinit
+12:17:55 Attempt to override final function - bis_functions_listrecompile
+12:17:55 Attempt to override final function - bis_fnc_missiontaskslocal
+12:17:55 Attempt to override final function - bis_fnc_missionconversationslocal
+12:17:55 Attempt to override final function - bis_fnc_missionflow
+12:17:57 NonAI vehicle where AI expected - 1783028: cl_feathers2.p3d
+12:17:57 NonAI vehicle where AI expected - 1783030: cl_grass2.p3d
+12:17:57 NonAI vehicle where AI expected - 1783031: cl_grass2.p3d
+12:17:57 NonAI vehicle where AI expected - 1783032: cl_leaf.p3d
+12:18:03 String STR_License_Bounty not found
+12:18:04 Error in expression <   ! License_adac_car && player == east side >
+12:18:04   Error position: <side >
+12:18:04   Error Missing ;
+12:18:04 Error in expression <   ! License_adac_air && player == east side >
+12:18:04   Error position: <side >
+12:18:04   Error Missing ;
+12:18:04 Error in expression <   ! License_adac_air && player == east side >
+12:18:04   Error position: <side >
+12:18:04   Error Missing ;
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Network simulation, time = 0.050
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Group C Delta 4-1 (0x673e0900) - network ID 2:4162
+12:18:05  - no main subgroup
+12:18:05 Attempt to override final function - bis_fnc_endmission
+12:18:05 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:18:05   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:18:05   Error Missing ;
+12:18:05 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:18:05 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+12:18:05   Error position: <exitWith {}; private["_binConfigPatches">
+12:18:05   Error Undefined variable in expression: exitwith
+12:18:05 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:18:05 "------------------------------------------------------------------------------------------------------"
+12:18:05 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+12:18:05 "------------------------------------------------------------------------------------------------------"
+12:18:05 "::Life Client:: Initialization Variables"
+12:18:05 "::Life Client:: Variables initialized"
+12:18:05 "::Life Client:: Setting up Eventhandlers"
+12:18:05 "::Life Client:: Eventhandlers completed"
+12:18:05 "::Life Client:: Setting up user actions"
+12:18:05 "::Life Client:: User actions completed"
+12:18:05 "::Life Client:: Waiting for server functions to transfer.."
+12:18:06  Mission id: f3773296d13581373dd39df001f2f215ea96bff5
+12:22:15 Warning Message: Picture icons\loading.jpg not found
+12:22:18 Warning Message: Picture icons\loading.jpg not found
+12:27:52 Starting mission:
+12:27:52  Mission file: FrostBittenAL (__CUR_MP)
+12:27:52  Mission world: Altis
+12:27:52  Mission directory: mpmissions\__CUR_MP.Altis\
+12:27:53 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:27:53   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:27:53   Error Missing ;
+12:27:53 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:27:53 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:27:53   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:27:53   Error Missing ;
+12:27:53 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:27:53 Error in expression < make sure to read the server rules.",
+
+];
+>
+12:27:53   Error position: <];
+>
+12:27:53   Error Missing [
+12:27:53 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+12:27:53 Error in expression < make sure to read the server rules.",
+
+];
+>
+12:27:53   Error position: <];
+>
+12:27:53   Error Missing [
+12:27:53 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+12:27:53 Attempt to override final function - life_fnc_fastrope
+12:27:53 Attempt to override final function - life_fnc_fastrope_meta
+12:27:53 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:27:53   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:27:53   Error Missing ]
+12:27:53 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+12:27:53 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:27:53   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:27:53   Error Missing ]
+12:27:53 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+12:27:53 Attempt to override final function - life_fnc_fastrope
+12:27:53 Attempt to override final function - life_fnc_fastrope_meta
+12:27:53 Attempt to override final function - life_fnc_fastrope
+12:27:53 Attempt to override final function - life_fnc_fastrope_meta
+12:27:53 Attempt to override final function - bis_functions_list
+12:27:53 Attempt to override final function - bis_functions_listpreinit
+12:27:53 Attempt to override final function - bis_functions_listpostinit
+12:27:53 Attempt to override final function - bis_functions_listrecompile
+12:27:53 Attempt to override final function - bis_fnc_missiontaskslocal
+12:27:53 Attempt to override final function - bis_fnc_missionconversationslocal
+12:27:53 Attempt to override final function - bis_fnc_missionflow
+12:27:57 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+12:27:57 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+12:27:57 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+12:27:57 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+12:28:05 Time was adjusted to keep it same as on server.
+12:28:05 String STR_License_Bounty not found
+12:28:06 Error in expression <   ! License_adac_car && player == east side >
+12:28:06   Error position: <side >
+12:28:06   Error Missing ;
+12:28:06 Error in expression <   ! License_adac_air && player == east side >
+12:28:06   Error position: <side >
+12:28:06   Error Missing ;
+12:28:06 Error in expression <   ! License_adac_air && player == east side >
+12:28:06   Error position: <side >
+12:28:06   Error Missing ;
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Network simulation, time = 0.140
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Group C Delta 4-1 (0x8bed8400) - network ID 2:4304
+12:28:08  - no main subgroup
+12:28:08 Attempt to override final function - bis_fnc_endmission
+12:28:08 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:28:08   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:28:08   Error Missing ;
+12:28:08 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:28:08 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+12:28:08   Error position: <exitWith {}; private["_binConfigPatches">
+12:28:08   Error Undefined variable in expression: exitwith
+12:28:08 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:28:08 "------------------------------------------------------------------------------------------------------"
+12:28:08 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+12:28:08 "------------------------------------------------------------------------------------------------------"
+12:28:08 "::Life Client:: Initialization Variables"
+12:28:08 "::Life Client:: Variables initialized"
+12:28:08 "::Life Client:: Setting up Eventhandlers"
+12:28:08 "::Life Client:: Eventhandlers completed"
+12:28:08 "::Life Client:: Setting up user actions"
+12:28:08 "::Life Client:: User actions completed"
+12:28:08 "::Life Client:: Waiting for server functions to transfer.."
+12:28:08 "::Life Client:: Received server functions."
+12:28:08 "::Life Client:: Waiting for the server to be ready.."
+12:28:08  Mission id: a5a8788848a3eb0479e0cb1ecd840d4b37b1c481
+12:28:09 Warning Message: No entry 'mpmissions\__CUR_MP.Altis\description.ext/life_spawn_selection/controlsBackground/MapView.LineMarker'.
+12:28:09 Warning Message: No entry '.lineWidthThin'.
+12:28:09 Warning Message: '/' is not a value
+12:28:09 Warning Message: No entry '.lineWidthThick'.
+12:28:09 Warning Message: '/' is not a value
+12:28:09 Warning Message: No entry '.lineDistanceMin'.
+12:28:09 Warning Message: '/' is not a value
+12:28:09 Warning Message: No entry '.lineLengthMin'.
+12:28:09 Warning Message: '/' is not a value
+12:29:14 Time was adjusted to keep it same as on server.
+12:29:29 "Past Settings Init"
+12:29:29 "Executing client.fsm"
+12:29:29 "Display 46 Found"
+12:29:29 "------------------------------------------------------------------------------------------------------"
+12:29:29 "                End of Altis Life Client Init :: Total Execution Time 81.3208 seconds "
+12:29:29 "------------------------------------------------------------------------------------------------------"
+12:31:09 Starting mission:
+12:31:09  Mission file: FrostBittenAL (__CUR_MP)
+12:31:09  Mission world: Altis
+12:31:09  Mission directory: mpmissions\__CUR_MP.Altis\
+12:31:10 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:31:10   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:31:10   Error Missing ;
+12:31:10 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:31:10 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:31:10   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:31:10   Error Missing ;
+12:31:10 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:31:10 Error in expression < make sure to read the server rules.",
+
+];
+>
+12:31:10   Error position: <];
+>
+12:31:10   Error Missing [
+12:31:10 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+12:31:10 Error in expression < make sure to read the server rules.",
+
+];
+>
+12:31:10   Error position: <];
+>
+12:31:10   Error Missing [
+12:31:10 File mpmissions\__CUR_MP.Altis\core\fn_welcomeNotification.sqf, line 11
+12:31:10 Attempt to override final function - life_fnc_fastrope
+12:31:10 Attempt to override final function - life_fnc_fastrope_meta
+12:31:10 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:31:10   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:31:10   Error Missing ]
+12:31:10 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+12:31:10 Error in expression <"srifle_DMR_01_F",
+"V_HarnessOGL_brn"
+
+
+"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:31:10   Error position: <"30Rnd_556x45_Stanag",
+"20Rnd_556x45_UW_>
+12:31:10   Error Missing ]
+12:31:10 File mpmissions\__CUR_MP.Altis\core\config\fn_seizeCfg.sqf, line 79
+12:31:10 Attempt to override final function - life_fnc_fastrope
+12:31:10 Attempt to override final function - life_fnc_fastrope_meta
+12:31:10 Attempt to override final function - life_fnc_fastrope
+12:31:10 Attempt to override final function - life_fnc_fastrope_meta
+12:31:10 Attempt to override final function - bis_functions_list
+12:31:10 Attempt to override final function - bis_functions_listpreinit
+12:31:10 Attempt to override final function - bis_functions_listpostinit
+12:31:10 Attempt to override final function - bis_functions_listrecompile
+12:31:10 Attempt to override final function - bis_fnc_missiontaskslocal
+12:31:10 Attempt to override final function - bis_fnc_missionconversationslocal
+12:31:10 Attempt to override final function - bis_fnc_missionflow
+12:31:10 NonAI vehicle where AI expected - 1782886: cl_feathers2.p3d
+12:31:10 NonAI vehicle where AI expected - 1782888: cl_grass2.p3d
+12:31:10 NonAI vehicle where AI expected - 1782889: cl_grass2.p3d
+12:31:10 NonAI vehicle where AI expected - 1782890: cl_leaf.p3d
+12:31:15 Time was adjusted to keep it same as on server.
+12:31:15 String STR_License_Bounty not found
+12:31:16 Error in expression <   ! License_adac_car && player == east side >
+12:31:16   Error position: <side >
+12:31:16   Error Missing ;
+12:31:16 Error in expression <   ! License_adac_air && player == east side >
+12:31:16   Error position: <side >
+12:31:16   Error Missing ;
+12:31:16 Error in expression <   ! License_adac_air && player == east side >
+12:31:16   Error position: <side >
+12:31:16   Error Missing ;
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:16 Network simulation, time = 0.146
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:16 Group C Delta 4-1 (0x8be87b00) - network ID 2:4311
+12:31:16  - no main subgroup
+12:31:17 Attempt to override final function - bis_fnc_endmission
+12:31:17 Error in expression <Glass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches","_cfgPat>
+12:31:17   Error position: <{}; private["_binConfigPatches","_cfgPat>
+12:31:17   Error Missing ;
+12:31:17 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:31:17 Error in expression <Altis\SpyGlass\fn_initSpy.sqf"
+
+
+
+
+
+
+
+
+
+exitWith {}; private["_binConfigPatches">
+12:31:17   Error position: <exitWith {}; private["_binConfigPatches">
+12:31:17   Error Undefined variable in expression: exitwith
+12:31:17 File mpmissions\__CUR_MP.Altis\SpyGlass\fn_initSpy.sqf, line 10
+12:31:17 "------------------------------------------------------------------------------------------------------"
+12:31:17 "--------------------------------- Starting Altis Life Client Init ----------------------------------"
+12:31:17 "------------------------------------------------------------------------------------------------------"
+12:31:17 "::Life Client:: Initialization Variables"
+12:31:17 "::Life Client:: Variables initialized"
+12:31:17 "::Life Client:: Setting up Eventhandlers"
+12:31:17 "::Life Client:: Eventhandlers completed"
+12:31:17 "::Life Client:: Setting up user actions"
+12:31:17 "::Life Client:: User actions completed"
+12:31:17 "::Life Client:: Waiting for server functions to transfer.."
+12:31:17 "::Life Client:: Received server functions."
+12:31:17 "::Life Client:: Waiting for the server to be ready.."
+12:31:17  Mission id: a5a8788848a3eb0479e0cb1ecd840d4b37b1c481
+12:31:17 Error in expression <Mags","_vMags","_handle"];
+_itemArray = life_gear;
+waitUntil {!(isNull (findDisp>
+12:31:17   Error position: <life_gear;
+waitUntil {!(isNull (findDisp>
+12:31:17   Error Undefined variable in expression: life_gear
+12:31:17 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 9
+12:31:17 Error in expression <layer;
+removeHeadGear player;
+
+if(count _itemArray == 0) exitWith
+{
+switch(playe>
+12:31:17   Error position: <_itemArray == 0) exitWith
+{
+switch(playe>
+12:31:17   Error Undefined variable in expression: _itemarray
+12:31:17 File mpmissions\__CUR_MP.Altis\core\functions\fn_loadGear.sqf, line 20
